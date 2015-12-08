@@ -78,7 +78,7 @@ A collection of basic Android exercises
 76. Scharr Gradient (https://github.com/DeLaSalleUniversity-Manila/Scharr) 
 77. YUV Extraction (https://github.com/DeLaSalleUniversity-Manila/YUV_Fast) 
 78. Native Bitmap Access (https://github.com/DeLaSalleUniversity-Manila/NativeBitmap) 
-79.Image Histogram (https://github.com/DeLaSalleUniversity-Manila/Histogram)
+79. Image Histogram (https://github.com/DeLaSalleUniversity-Manila/Histogram)
 80. Adaptive Thresholding (https://github.com/DeLaSalleUniversity-Manila/adaptivethreshold-melvincabatuan)
 81. DISMATH Refresher App (https://github.com/DeLaSalleUniversity-Manila/Dismathoid2014_old )(https://play.google.com/store/apps/details?id=com.cabatuan.dismathoid2014)
 82. Full Body Detection (https://github.com/DeLaSalleUniversity-Manila/FullBodyDetection)
