@@ -24,7 +24,7 @@ A collection of basic Android exercises
 22. **SQLiteDatabase** (https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-laureeeengarcia)
 23. **Mini-database with Text file** (https://github.com/DeLaSalleUniversity-Manila/minidatabasewithtextfile-laureeeengarcia)
 24. **Settings Activity** (https://github.com/DeLaSalleUniversity-Manila/settingsactivity-melvincabatuan)
-25. **WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-melvincabatuan)
+25. **WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-laureeeengarcia)
 26. **Grocery App** (https://classroom.github.com/assignment-invitations/dd320497ba09faadd245acf6614f03af)
 27. **Breast Cancer Awareness App** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-laureeeengarcia)
 28. OpenCV 3.0 Camera Preview Example (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-melvincabatuan)
